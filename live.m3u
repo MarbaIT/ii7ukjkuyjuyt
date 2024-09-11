@@ -1,26 +1,24 @@
 #EXTM3U
-#EXTINF:25 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Euronews_2016_Logo.png",Euronews IT
-#EXTVLCOPT:network-caching=1000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b86ea479a4390007c6d5fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="RaiItalia.it" tvg-logo="hhttps://i.imgur.com/ty5oXie.png",Rai Italia
+https://ilglobotv-live.global.ssl.fastly.net/RAIItaliaZA/Live.m3u8
 
 #EXTINF:60 tvg-logo="https://i.imgur.com/h4NyN5d.png",Senato TV
 #EXTVLCOPT:network-caching=1000
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8?video_id=13440&uuid=&channel_name=senato_webtv1&detected_delivery_method=hl
 
-#EXTINF:25 tvg-logo="https://www.paramountshop.com/cdn/shop/files/cbs-news.png",CBS NEWS
+#EXTINF:0 tvg-logo="https://example.com/logo-camera.png",Camera dei Deputati TV
 #EXTVLCOPT:network-caching=1000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6231ec4b62cd1f0007093c7b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+https://video-ar.radioradicale.it/diretta/camera2/chunklist_w1651210671.m3u8
 
 #EXTINF:60 tvg-logo="https://example.com/logo-radio24.png",Radio 24
 #EXTVLCOPT:network-caching=1000
 https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/stream/stream.m3u8
 
-#EXTINF:0 tvg-logo="https://example.com/logo-camera.png",Camera dei Deputati TV
+#EXTINF:25 tvg-logo="https://i.imgur.com/EhoAEY5.png",Euronews IT
 #EXTVLCOPT:network-caching=1000
-https://video-ar.radioradicale.it/diretta/camera2/chunklist_w1651210671.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b86ea479a4390007c6d5fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="RaiItalia.it" tvg-logo="https://d1lnjfyey7pbh6.cloudfront.net/content/1702615707687-rai-italia.png",Rai Italia
-https://ilglobotv-live.global.ssl.fastly.net/RAIItaliaZA/Live.m3u8
-
-#EXTINF:-1 tvg-id="RaiWorldPremium.it" tvg-logo="https://d1lnjfyey7pbh6.cloudfront.net/content/1687937411694-rai-world.png",RAI World Premium
-https://ilglobotv-live.global.ssl.fastly.net/RAIW/Live.m3u8
+#EXTINF:25 tvg-logo="https://i.imgur.com/dIBBkuA.png",CBS NEWS
+#EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6231ec4b62cd1f0007093c7b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
