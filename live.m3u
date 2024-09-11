@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:25,Service
+#EXTINF:25,Euronews IT
 #EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b86ea479a4390007c6d5fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:60,playlist.m3u8?video_id=13440&uuid=&channel_name=senato_webtv1&detected_delivery_method=hl
+#EXTINF:60,Senato TV
 #EXTVLCOPT:network-caching=1000
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8?video_id=13440&uuid=&channel_name=senato_webtv1&detected_delivery_method=hl
-#EXTINF:25,master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:25,CBS NEWS
 #EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6231ec4b62cd1f0007093c7b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:60,stream.m3u8
+#EXTINF:60,Radio 24
 #EXTVLCOPT:network-caching=1000
 https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/stream/stream.m3u8
-#EXTINF:0,chunklist_w1651210671.m3u8
+#EXTINF:0,Camera dei Deputati TV
 #EXTVLCOPT:network-caching=1000
 https://video-ar.radioradicale.it/diretta/camera2/chunklist_w1651210671.m3u8
