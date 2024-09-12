@@ -28,7 +28,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6231ec4b6
 
 #EXTINF:32 tvg-logo="",ABC News
 #EXTVLCOPT:network-caching=1000
-https://content-dtci.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+https://lnc-abc-news.tubi.video/index.m3u8
 
 #EXTINF:100,Bloomberg Television
 #EXTVLCOPT:network-caching=1000
