@@ -11,6 +11,10 @@ https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8?video_id=13440&uu
 #EXTVLCOPT:network-caching=1000
 https://video-ar.radioradicale.it/diretta/camera2/chunklist_w1651210671.m3u8
 
+#EXTINF:60 tvg-logo="https://romatrasportiarchivio.altervista.org/wp-content/uploads/2024/09/Radio-24.png",Radio 24
+#EXTVLCOPT:network-caching=1000
+https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/stream/stream.m3u8
+
 #EXTINF:25 tvg-logo="https://romatrasportiarchivio.altervista.org/wp-content/uploads/2024/09/Euronews-960x489.png",Euronews IT
 #EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b86ea479a4390007c6d5fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -19,7 +23,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b86ea47
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png",FOX News
-https://s0.usnlive.com/stream/foxnews.m3u8
+https://v4.thetvapp.to/hls/FoxNewsChannel/index.m3u8?token=djJuMlpvdDNkM3czalFOd3d4aUtFdmFiTW5Ycm1kQmZ3OFF4WU9vVg==
 
 #EXTINF:25 tvg-logo="https://romatrasportiarchivio.altervista.org/wp-content/uploads/2024/09/cbs-news.png",CBS NEWS
 #EXTVLCOPT:network-caching=1000
