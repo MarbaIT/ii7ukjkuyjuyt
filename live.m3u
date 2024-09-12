@@ -1,15 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="RaiItalia.it" tvg-logo="https://romatrasportiarchivio.altervista.org/wp-content/uploads/2024/09/Rai-Italia-960x366.png",Rai Italia
-https://ilglobotv-live.global.ssl.fastly.net/RAIItaliaZA/Live.m3u8
+#EXTINF:0 tvg-logo="https://example.com/logo-camera.png",Camera dei Deputati TV
+#EXTVLCOPT:network-caching=1000
+https://video-ar.radioradicale.it/diretta/camera2/chunklist_w1651210671.m3u8
 
 #EXTINF:60 tvg-logo="https://upload.wikimedia.org/wikipedia/it/9/91/Logo_Senato_TV.png",Senato TV
 #EXTVLCOPT:network-caching=1000
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8?video_id=13440&uuid=&channel_name=senato_webtv1&detected_delivery_method=hl
-
-#EXTINF:0 tvg-logo="https://example.com/logo-camera.png",Camera dei Deputati TV
-#EXTVLCOPT:network-caching=1000
-https://video-ar.radioradicale.it/diretta/camera2/chunklist_w1651210671.m3u8
 
 #EXTINF:60 tvg-logo="https://romatrasportiarchivio.altervista.org/wp-content/uploads/2024/09/Radio-24.png",Radio 24
 #EXTVLCOPT:network-caching=1000
@@ -45,7 +42,9 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-logo="https://example.com/logo-aje.png",Al Jazeera English
 https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 
-#EXTM3U
 #EXTINF:100,Bloomberg Television
 #EXTVLCOPT:network-caching=1000
 https://dai.google.com/linear/hls/pa/event/BVlOmFGaTi6NpchccR14yA/stream/6e6c63d9-ac47-46e3-8dee-39f6b7939c7a:GRQ/variant/2669df91676be1a76e52d4de25e4f1a5/bandwidth/2400000.m3u8
+
+#EXTINF:-1 ,France 24
+https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u8
