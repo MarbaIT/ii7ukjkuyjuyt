@@ -30,13 +30,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6231ec4b6
 #EXTVLCOPT:network-caching=1000
 https://lnc-abc-news.tubi.video/index.m3u8
 
-#EXTINF:100 tvg-logo="https://images.squarespace-cdn.com/content/v1/628b0c7b7e12bc02e301aa90/14e0bc00-025e-4f9c-9127-1cd8a82adabd/Untitled+design+(84).png",Bloomberg Television 1
-#EXTVLCOPT:network-caching=1000
-https://www.bloomberg.com/media-manifest/streams/eu.m3u8
-
-#EXTINF:100 tvg-logo="https://images.squarespace-cdn.com/content/v1/628b0c7b7e12bc02e301aa90/14e0bc00-025e-4f9c-9127-1cd8a82adabd/Untitled+design+(84).png",Bloomberg Television 2
+#EXTINF:100 tvg-logo="https://images.squarespace-cdn.com/content/v1/628b0c7b7e12bc02e301aa90/14e0bc00-025e-4f9c-9127-1cd8a82adabd/Untitled+design+(84).png",Bloomberg (BIG)
 #EXTVLCOPT:network-caching=1000
 https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+
+#EXTINF:100 tvg-logo="https://images.squarespace-cdn.com/content/v1/628b0c7b7e12bc02e301aa90/14e0bc00-025e-4f9c-9127-1cd8a82adabd/Untitled+design+(84).png",Bloomberg (SMALL)
+#EXTVLCOPT:network-caching=1000
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 
 #EXTINF:-1 tvg-logo="",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
