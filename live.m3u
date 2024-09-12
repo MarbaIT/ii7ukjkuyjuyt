@@ -20,7 +20,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b86ea47
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png",FOX News
-https://v4.thetvapp.to/hls/FoxNewsChannel/index.m3u8?token=djJuMlpvdDNkM3czalFOd3d4aUtFdmFiTW5Ycm1kQmZ3OFF4WU9vVg==
+https://v13.thetvapp.to/hls/FoxNewsChannel/index.m3u8?token=ZThNUkIxM0RqdmJmQ2RHYlhUNldYS1pZNnJXUkVmV0pCQzNkalU0OQ==
 
 #EXTINF:25 tvg-logo="https://romatrasportiarchivio.altervista.org/wp-content/uploads/2024/09/cbs-news.png",CBS NEWS
 #EXTVLCOPT:network-caching=1000
