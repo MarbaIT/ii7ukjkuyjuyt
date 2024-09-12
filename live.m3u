@@ -16,9 +16,6 @@ https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/stream/stream.m3u
 #EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b86ea479a4390007c6d5fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-name="RSI La 1" tvg-logo="https://i.imgur.com/j8ogbli.png" group-title="Switzerland",RSI La 1
-http://190.2.155.162/RSI1/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.digitalvideosystems.net/wp-content/uploads/2018/03/CNN_International-logo-32A54E6066-seeklogo.com_.png",CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
@@ -35,7 +32,7 @@ https://lnc-abc-news.tubi.video/index.m3u8
 
 #EXTINF:100 tvg-logo="https://images.squarespace-cdn.com/content/v1/628b0c7b7e12bc02e301aa90/14e0bc00-025e-4f9c-9127-1cd8a82adabd/Untitled+design+(84).png",Bloomberg Television
 #EXTVLCOPT:network-caching=1000
-https://dai.google.com/linear/hls/pa/event/BVlOmFGaTi6NpchccR14yA/stream/6e6c63d9-ac47-46e3-8dee-39f6b7939c7a:GRQ/variant/2669df91676be1a76e52d4de25e4f1a5/bandwidth/2400000.m3u8
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 
 #EXTINF:-1 tvg-logo="",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
