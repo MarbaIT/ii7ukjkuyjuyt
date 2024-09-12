@@ -29,7 +29,10 @@ https://v4.thetvapp.to/hls/FoxNewsChannel/index.m3u8?token=djJuMlpvdDNkM3czalFOd
 #EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6231ec4b62cd1f0007093c7b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png",BBC News
+#EXTINF:-1 tvg-logo="",ABC News
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+
+#EXTINF:-1 tvg-logo="",BBC News
 https://v4.thetvapp.to/hls/FoxNewsChannel/index.m3u8?token=djJuMlpvdDNkM3czalFOd3d4aUtFdmFiTW5Ycm1kQmZ3OFF4WU9vVg==
 
 #EXTINF:-1 tvg-logo="https://example.com/logo-skynews.png",Sky News
