@@ -42,6 +42,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6231ec4b6
 #EXTVLCOPT:network-caching=1000
 https://lnc-abc-news.tubi.video/index.m3u8
 
+#EXTINF:100 tvg-logo="https://images.radio.com/aiu-media/Logo-Bloomberg-TV.png",BIoomberg TEST
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Ranzo20/ii7ukjkuyjuyt/main/bloomberg.m3u8
+
 #EXTINF:100 tvg-logo="https://images.radio.com/aiu-media/Logo-Bloomberg-TV.png",BIoomberg SMALL
 #EXTVLCOPT:network-caching=1000
 https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/playlist.m3u8
