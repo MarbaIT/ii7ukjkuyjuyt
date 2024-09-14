@@ -24,10 +24,6 @@ https://eucom-live.freecaster.com/eucom/96098bf4-5a2a-466b-8d7f-e35300fa4f28/960
 #EXTVLCOPT:network-caching=1000
 https://eucom-live.freecaster.com/eucom/96098c0b-0743-4afc-9562-db1673053f9d/96098c0b-0743-4afc-9562-db1673053f9d.isml/master.m3u8
 
-#EXTINF:60 tvg-logo="https://romatrasportiarchivio.altervista.org/wp-content/uploads/2024/09/Radio-24.png",Radio 24
-#EXTVLCOPT:network-caching=1000
-https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/stream/stream.m3u8
-
 #EXTINF:25 tvg-logo="https://romatrasportiarchivio.altervista.org/wp-content/uploads/2024/09/Euronews-960x489.png",Euronews IT
 #EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b86ea479a4390007c6d5fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -68,3 +64,7 @@ https://helga.iptv2022.com/France24_fr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_TVE-24h.svg",RTVE 24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:60 tvg-logo="https://romatrasportiarchivio.altervista.org/wp-content/uploads/2024/09/Radio-24.png",Radio 24
+#EXTVLCOPT:network-caching=1000
+https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/stream/stream.m3u8
