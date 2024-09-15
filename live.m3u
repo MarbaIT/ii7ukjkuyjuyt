@@ -34,6 +34,9 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png",FOX News
 https://usher.ttvnw.net/api/channel/hls/yosbeha.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiOGEwODk3NGQtMDc2ZS00ZDJlLTkwMzEtMzRlZjJiYjJlNTUxIn0%3D&allow_source=true&browser_family=microsoft%20edge&browser_version=128.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=7184810&platform=web&play_session_id=dedc5daad44b9cebbd4ae3b2587df20c&player_backend=mediaplayer&player_version=1.32.0-rc.1&playlist_include_framerate=true&reassignments_supported=true&sig=06084376194f005b1b1f32ef19c95a4fafe9eb0d&supported_codecs=av1,h265,h264&token=%7B"adblock"%3Afalse%2C"authorization"%3A%7B"forbidden"%3Afalse%2C"reason"%3A""%7D%2C"blackout_enabled"%3Afalse%2C"channel"%3A"yosbeha"%2C"channel_id"%3A1092697571%2C"chansub"%3A%7B"restricted_bitrates"%3A%5B%5D%2C"view_until"%3A1924905600%7D%2C"ci_gb"%3Afalse%2C"geoblock_reason"%3A""%2C"device_id"%3A"b9d1a065370c319a"%2C"expires"%3A1726404136%2C"extended_history_allowed"%3Afalse%2C"game"%3A""%2C"hide_ads"%3Afalse%2C"https_required"%3Atrue%2C"mature"%3Afalse%2C"partner"%3Afalse%2C"platform"%3A"web"%2C"player_type"%3A"site"%2C"private"%3A%7B"allowed_to_view"%3Atrue%7D%2C"privileged"%3Afalse%2C"role"%3A""%2C"server_ads"%3Atrue%2C"show_ads"%3Atrue%2C"subscriber"%3Afalse%2C"turbo"%3Afalse%2C"user_id"%3Anull%2C"user_ip"%3A"151.25.207.108"%2C"version"%3A2%7D&transcode_mode=cbr_v1
 
+#EXTINF:-1 tvg-logo="",FOX Sports 1
+https://v2.thetvapp.to/hls/FoxSports1/index.m3u8?token=WGdmeEFRU3YxcGN0MTZaOEpzbEVDa2ZvUGZNNWluVFRSdzU4T3hzcg==
+
 #EXTINF:25 tvg-logo="https://romatrasportiarchivio.altervista.org/wp-content/uploads/2024/09/cbs-news.png",CBS NEWS
 #EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6231ec4b62cd1f0007093c7b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -41,12 +44,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6231ec4b6
 #EXTINF:32 tvg-logo="",ABC News
 #EXTVLCOPT:network-caching=1000
 https://lnc-abc-news.tubi.video/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.radio.com/aiu-media/Logo-Bloomberg-TV.png",BIoomberg TEST
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=640x360
-https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/playlist.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
-https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 
 #EXTINF:100 tvg-logo="https://images.radio.com/aiu-media/Logo-Bloomberg-TV.png",BIoomberg SMALL
 #EXTVLCOPT:network-caching=1000
@@ -74,3 +71,9 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:60 tvg-logo="https://romatrasportiarchivio.altervista.org/wp-content/uploads/2024/09/Radio-24.png",Radio 24
 #EXTVLCOPT:network-caching=1000
 https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/stream/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.radio.com/aiu-media/Logo-Bloomberg-TV.png",BIoomberg TEST
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=640x360
+https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
